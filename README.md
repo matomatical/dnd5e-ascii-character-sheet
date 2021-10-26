@@ -40,6 +40,15 @@ important features.
 
 Anyway, someone might find this cool/useful.
 
+Testimonials
+------------
+
+> you have a problem matt, you need to seek help
+> ---a true friend
+
+> wow the memories
+> ---Rayvwen (yes, the e-celeb)
+
 
 Credits
 -------
