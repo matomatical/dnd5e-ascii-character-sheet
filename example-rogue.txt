@@ -1,0 +1,296 @@
+        ,),,)
+      \'     ',)
+     ,`  ,--.  ',  ,                        /------.___________________,------\
+     :  /    }  G}'   DUNGEONS & DRAGONS   [ PLAYER NAME: Matt                 ]
+    ',  \    ',,V     5E CHARACTER SHEET   [        RACE: Gnome (Forest Gnome) ]
+    _\___\____;;l________________________  [  BACKGROUND: Criminal             ]
+  _/          ';/  CHARACTER NAME       \\ [   ALIGNMENT: Chaotic Good         ]
+ //|    Mimble "Nicks" Timbers           \\[ CLASS: Rogue            LEVEL:  1 ]
+// ;                       ,---.      ,  //[ EXPERIENCE POINTS: 0              ]
+\\ \______________________/  _  \___,'/_//  \______,-------------------.______/ 
+ \\_'/            VZ\  `'  /  \  `.' /  
+/------\         +FAR`.__,'    `.__,'       _.._    .------------. .-----------.
+| STR: |  .--------------------------.    _/    \_  |/          \| |/         \|
+[   9  ] {        INSPIRATION         }  )   AC   ( | INITIATIVE | |   SPEED   |
+[ (-1) ] {   +2   PROFICIENCY BONUS   }  |   15   | |     +4     | |   25 ft   |
+\\<''>// {                            }   \      /  |\          /| |\         /|
+/------\  '--------------------------'     `-.,-`   '------------' '-----------'
+| DEX: |  .--------------------------.    .-----------------------------------.
+[  18  ] {       SAVING  THROWS       }  { HIT POINTS:  [**********]   9 /  9  }
+[ (+4) ] {   STR -1  .:"":.  +6 INT X }  { TEMP HIT POINTS:                    }
+\~:><:~/ | X DEX +6 :\/20\/: +0 WIS   |   '-----------------------------------'
+/------\ {   CON +1 :/\``/\: +3 CHA   }  .-------------. .---------------------.
+| CON: | {          `._\/_.'          }  |/           \| |/                   \|
+[  12  ]  '--------------------------'   |  HIT DICE   | |     DEATH SAVES     |
+[ (+1) ]  .--------------------------.   |     1d8     | |  < - - - + - - - >  |
+\_\()/_/ {           SKILLS           }  |\           /| |\ death        life /|
+/------\ { X Acrobatics      +6 (dex) }  '-------------' '---------------------'
+| INT: | | X Animal Handling +2 (wis) |   .-----------------------------------.
+[  18  ] |   Arcana          +4 (int) |  {       ATTACKS & SPELLCASTING        }
+[ (+4) ] |   Athletics       -1 (str) |  { NAME         BONUS   DAMAGE/TYPE    }
+\+/{}\+/ | X Deception       +5 (cha) |  | Dagger       +6      1d4+4 piercing |
+/------\ |   History         +4 (int) |  | Shortbow     +6      1d6+4 piercing |
+| WIS: | |   Insight         +0 (wis) |  | Rapier       +6      1d8+4 piercing |
+[  11  ] |   Intimidation    +3 (cha) |  |                                     |
+[ (+0) ] | X Investigation   +6 (int) |  | NAME; TIME RANGE DUR. COMPONENTS    |
+\+_/\_+/ |   Medicine        +0 (wis) |  | Minor illusion (illusion cantrip)   |
+/------\ |   Nature          +4 (int) |  | INT  1act 30ft  1min SM (fleece)    |
+| CHA: | |   Perception      +0 (wis) |  |                                     |
+[  16  ] |   Performance     +3 (cha) |  |                                     |
+[ (+3) ] |   Persuasion      +3 (cha) |  |                                     |
+\"}--{"/ |   Religion        +4 (int) |  |                                     |
+/------\ |XX Sleight of Hand +8 (dex) |  |                                     |
+| PAS. | |XX Stealth         +8 (dex) |  {                                     }
+[ WIS: ] {   Survival        +0 (wis) }  {                                     }
+[  10  ] {                            }   '-----------------------------------'
+\::[]::/  '--------------------------'    /------._____________________,------\
++-------------------------------------+  [              APPEARANCE             ]
+|   OTHER PROFICIENCIES & LANGUAGES   |  [    AGE: 45 (young adult gnome)      ]
+| Tools: thieves' tools, Dragonchess  |  [ GENDER: Male                        ]
+|   set, playing card set             |  [ HEIGHT: 3'5" (104cm) (Small)        ]
+| Weapons: hand crossbow, longsword,  |  [ WEIGHT: 45lb (20kg)                 ]
+|   rapier, shortsword, simple        |  [   EYES: Bright gold, gleaming       ]
+| Armor: light                        |  [   SKIN: Tan                         ]
+| Languages: Common, Gnomish          |  [   HAIR: Auburn, wild + spiky beard  ]
++-------------------------------------+   \______,---------------------.______/ 
+*------------------------------------------------------------------------------*
+|                                                                   EQUIPMENT
+| Belt pouch:
+| * 45 GP
+| Thieves' tools
+| * Small file
+| * Set of lock picks
+| * Small metal hand mirror
+| * Narrow-bladed scissors
+| * Pliers
+| Clothing:
+| * Dark hooded common clothes (on)
+| * Trinket: an old key (on string around neck)
+| Weapons & Armor:
+| * Quiver
+| * Arrow (20)
+| * Shortbow
+| * Rapier
+| * Dagger (2)
+| * Leather armor
+| Backpack (Burglar's Pack):
+| * Ball bearings (1000)
+| * String (10ft)
+| * Bell
+| * Candle (5)
+| * Crowbar
+| * Hammer
+| * Piton (10)
+| * Hooded lantern
+| * Oil (2 flasks)
+| * Rations (5 days)
+| * Tinderbox
+| * Waterskin
+| * Philter of Love
+| * Weird arcane padlock 
+| * Common pants
+| * Weird keys
+| * Gold necklace (10gp)
+| * Golden gem-encrusted goblet (1) (40gp)
+| Strapped to backpack:
+| * Hempen rope (50ft)
+*------------------------------------------------------------------------------*
+|                                                                      SPELLS
+| Cantrips:
+| * Minor Illusion (IIlusion cantrip)
+|   Casting Time: 1 action; Range: 30ft; Duration: 1 minute;
+|   Components: S, M (a bit of fleece); 
+|   Description:
+|   You create a sound or an image of an object within range that lasts for the 
+|   duration. The illusion also ends if you dismiss it as an action or cast this
+|   spell again. If you create a sound, its volume can range from a whisper to a
+|   scream. It can be your voice, someone else's voice, a lion's roar, a beating
+|   of drums, or any other sound you choose. The sound continues unabated 
+|   throughout the duration, or you can make discrete sounds at different times 
+|   before the spell ends.
+|   If you create an image of an object-such as a chair, muddy footprints, or a 
+|   small chest---it must be no larger than a 5-foot cube. The image can't 
+|   create sound, light, smell, or any other sensory effect. Physical 
+|   interaction with the image reveals it to be an illusion, because things can 
+|   pass through it.
+|   If a creature uses its action to examine the sound or image, the creature 
+|   can determine that it is an illusion with a successful Intelligence
+|   (Investigation) check against your spell save DC. If a creature discerns the
+|   illusion for what it is, the illusion becomes faint to the creature.
+*------------------------------------------------------------------------------*
+|                                                           FEATURES & TRAITS
+| Race (Gnome):
+| * Ability Score Increase: +2 INT
+| * Darkvision: 60ft
+| * Gnome Cunning: Advantage on INT, WIS, and CHA saves against magic.
+| Subrace (Forest Gnome):
+| * Ability Score Increase: +1 DEX
+| * Natural Illusionist. You know the minor illusion cantrip. Intelligence is
+|   your spellcasting ability for it.
+| * Speak with Small Beasts: Through sounds and gestures, you can communicate
+|   simple ideas with Small or smaller beasts.
+| Background (Criminal):
+| * Criminal Contact: You have a reliable and trustworthy contact who acts as
+|   your liaison to a network of other criminals. You know how to get messages
+|   to and from your contact, even over great distances; specifically, you know
+|   the local messengers, corrupt caravan masters, and seedy sailors who can
+|   deliver messages for you.
+| Class (Rogue):
+| * Thieves' Cant: Convey secret messages hidden in normal conversation.
+| Level 1:
+| * Expertise: double proficiency bonus for sleight of hand and stealth skills
+| * Sneak Attack: 1d6 extra damage on attack where you have advantage, or
+|   another enemy of creature is within 5 ft (and no disadvantage). (use
+|   once/turn).
+*------------------------------------------------------------------------------*
+|                                                    PERSONAL CHARACTERISTICS
+| Personality traits:
+| * Pickpocket: "I once stole a walking man's trousers"
+| * "The first thing I do in a new place is note the locations of everything
+|   valuable (or where such things could be hidden)."
+| Ideals:
+| * Redemption: "There's a spark of good in everyone."
+| Bonds:
+| * "I owe a debt to a powerful thieves' guild master, and I intend to pay it
+|   back"
+| Flaws:
+| * Kleptomaniac: "I can't fight the urge to steal given the opportunity, even
+|   from my friends. As a practiced rogue, 'opportunity' is not hard to come
+|   by."
+*------------------------------------------------------------------------------*
+|                                                                   BACKSTORY
+| Childhood (0-25yo):
+| * My kleptomania has given me an uncontrollable compulsion to steal random
+|   things since I was a child. Back then I even felt compelled to steal things
+|   which were useless to me such as junk, clothing, books, excess food.
+| * Due to my behaviour, I became an outcast in my home village (a hidden forest
+|   gnome grove). I didn't have many friends, but one day I met a young fox cub
+|   in the forest.
+| * As I grew older my behaviour continued to burden my family and neighbours
+|   (I would even compulsively steal from them). Since I couldn't shake the
+|   habit so I resolved to distance myself from my loved ones for their sake. I
+|   left the village and travelled to a nearby city and tried to make it on my 
+|   own.
+| * By this time, the fox cub I had met as a child had become a beloved pet and 
+|   loyal companion. I named her "Nexivian". Sometimes she even helped me in my
+|   undeharnded endeavours---she is naturally sly and has the curious ability to 
+|   change the colour of her fur at will, which provides incredible
+|   camouflage. She would often retrieve target items while I provided some kind
+|   of distraction. However, Nex has always had a different concept of value 
+|   compared to my own, and always gets distracted by a possible hunt for food.
+| Thieves' Guild (25-45yo):
+| * Anyway---back to the story. In the big city, I tried to live honestly but I
+|   could not help myself from falling back into my stealing ways. Eventually, I
+|   made the mistake of robbing a member of the local thieves' guild. I was 
+|   easily captured, and interrogated about my links with rival thieves' guild 
+|   factions. Even though I had no such connections, I feared the worst.
+| * Once it was clear that I wasn't a threat, the leader of the thieves' guild
+|   (a mature, fiery-haired gnome woman named "Red") decided to induct me into 
+|   the group. She sensed my potential as a pickpocket, noting that my Forest
+|   Gnome traits suited the profession perfectly.
+| * The guild's name was "Underim", making its home in the sewer tunnels under 
+|   the sprawling city's streets. I came to refer to it, affectionately, as
+|   "The Rimbly".
+| * I trained under several proficient rogues for many years, developing my
+|   sleight of hand, stealth, and deception especially. I even learned to 'hone'
+|   my kleptomania somewhat (though not to control it completely). I learned to
+|   focus my urges towards targets that would bring me personal gain. The 
+|   strength of my compulsions became proportional to my perceived value of the
+|   target. This helped me avoid strong urges for stealing useless junk, but
+|   high-value targets now cause me uncontrollable cravings for theft.
+| * To say that this is troublesome is to vastly understate the problem. I am 
+|   compelled to steal, or at least to attempt to steal, even when the chances 
+|   of success are vanishing or non-existant, or when the owners of the targets
+|   I acquire are my friends or colleagues.
+| * In fact, recently, my compulsion caused me to steal a priceless treasure 
+|   from Red, the very master who took me in all those years ago. I had stolen
+|   from the guild before; they understood my condition, so usually they would 
+|   just reclaim whatever I had taken. This time, however, the treasure was 
+|   stolen from me before it could be reclaimed.
+| * As a result, I owe an un-payable debt to Red. She has given me a chance to
+|   find the treasure or some equally valuable replacement, and so I have left
+|   the city in search of adventure and the riches that it alone can bring. And
+|   that brings us to the beginning of the story.
+| Other notes:
+| * Gnomes are Lawful Good by nature. I, too, started that way, but after a
+|   childhood where abiding by the law was impossible, I gradually drifted to
+|   Neutral Good. I still dealt with the guilt associated with my behaviour
+|   until, in the lawless environment of The Rimbly, I managed to rationalise it
+|   to myself by questioning the foundational societal concept of 'ownership'
+|   itself. Needless to say, my alignment is now Chaotic Good as a result. My
+|   rejection of the concept of 'ownership' goes both ways: I will 'liberate'
+|   possessions from others no faster than I will be generous with my own 
+|   trappings, even those which I have recently taken. I will also see no 
+|   problem with 'redistributing' items and equipment amongst people as I see 
+|   the need.
+| * Gnomes hold many names in their own society. I had many myself, though I
+|   have forgotten many of them long since leaving my childhood home. At The 
+|   Rimbly I embraced the nickname "Nicknack", and now I go by a shorter version
+|   ("Nicks"). From my distant childhood I only remember two names: I was called
+|   "Mimbly Timbly" by my childhood friends, and "Lusterdust" by my family.
+*------------------------------------------------------------------------------*
+|                                                                         STORY
+| * I awoke after some foreboding but fading dreams inside a small room at the 
+|   Yatta tavern. I made quick work of the nearby rooms (except for one ornate 
+|   chest---I pocketed the lock but it trembled so I decided to come back later 
+|   to see if anything valuable was inside).
+| * I tried to recruit a topless half-orc to help me with the chest (meat shield)
+|   but he was otherwise occupied with three human girls. I stole some pants and 
+|   jewellery from the tavern's occupants downstairs, as they cheered on some 
+|   poor elven drunkard guzzling a cauldron of tequila.
+| * Outside I met a tiefling druid called Rayvwen, as I snacked on some fruit
+|   with Nex. Nex took a liking to the stranger, and I recruited him to
+|   investigate the mysterious chest with me.
+| * We found the room occupied, but a wizardly-looking fellow soon stormed out.
+|   we snuck in and opened the chest, only to find a rabid rabbit inside. It
+|   jumped Rayvwen and I failed to calm it down, and then the wizard was back.
+|   Rayvwen didn't rat me out, and we convinced him we had just entered the room
+|   to investigate a scream. The wizard muttered something hurriedly and left
+|   with the rabbit and the chest, but I kept the lock.
+| * The next day I was summoned by town guards to meet a Sargeant Frank
+|   Exposition who recruited me, Rayvwen, the topless half-orc (Shauthor) and 
+|   drunken Elf-wizard (Naboo) on a quest to investigate the recent murder of
+|   town Mayor Royam.
+| * We began by investigating the mayor's room, which still contained his 
+|   corpse. We noticed that the Mayor's mouth was blistered inside, that he 
+|   wasn't wearing any rings (but had marks indicating that he usually did), and
+|   that it appeared he had scribed a 'H' into the bedpost near his hand, before
+|   the writing trailed off. Otherwise, I observed that nearly everything of
+|   value had been removed from the room...
+| * There was an unsuspicious ornate goblet, but also a serving tray that seemed
+|   to indicate that the goblet had been part of a pair. Compelled to keep the 
+|   goblet, I waited until the others were distracted and then pocketed it.
+|   Rayvwen noticed its pair in the bushes below the window. We were 50ft above 
+|   the ground in the tower, but I was able to lower Nex down the wall with my 
+|   50ft rope to retrieve it. Shauthor noticed a smell of Fire Genasi Piss, and
+|   then I pocketed the goblet's pair too.
+| * We proceeded to interrogate the Mayor's widow, what was her name? And then 
+|   the treasurer, Alanor, who had been promoted to acting mayor after Royam's 
+|   death. The treasurer showed us his valuable signet ring, and I had to try to
+|   snatch it after we were finished talking to him. I shook his hand and
+|   successfully removed the ring, but I knew he had noticed after I turned to 
+|   walk away. As he called the guards I turned around and offered him the ring
+|   back, with a cool smile: 'oh, your ring seems to have slipped into my hand'.
+|   Lucky for us, he bought it, but unlucky for me, I now have a taste for 
+|   rare signet rings...
+| * The companions resolved to investigate some trader, a lead from the 
+|   treasurer, next. On our way to the docks we pased some town guards extorting 
+|   a local bakery. While the others entered the bakery to investigate, I
+|   slipped away with my eye on the sack of gold pieces the guards were 
+|   flaunting. I trailed them back to the great hall where I waltzed through the
+|   doors, only to see them give the money straight to Alanor. Interesting, he 
+|   hadn't mentioned a local protection racket during our previous conversation.
+| * I followed the soldiers to their barracks and listened into their dorm, but 
+|   learned nothing interesting.
+| * When I met back up with the companions, they had agreed to barter one of the 
+|   Mayor's ornate goblets to the trader in exchange for information. We went 
+|   back to the trader's stall, and I reluctantly parted with one of the 
+|   goblets full intending on getting it back somehow. Unfortunately, the
+|   information did not prove especially helpful. More unfortunately, the
+|   trader's companions looked like my kind of people... rogues, or at least
+|   thieves, and they left me no opportunity to snatch back the goblet.
+| * Oh well, owning the goblet was fun while it lasted, but I will find more 
+|   valuable treasures if I hang around these folks long enough, I'm sure of it.
+|   I have a good feeling about this.
+*                                                                              *
+'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
