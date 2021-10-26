@@ -32,8 +32,8 @@ to manually maintain the text alignment.
 
 These days, there are better alternatives to form-fillable PDFs (my friends
 like D&D Beyond, though I'm not a big fan; I use handwritten notes on a
-custom template on my reMarkable e-paper tablet, which even has its
-advantages over paper).
+[custom template on my reMarkable e-paper tablet](https://github.com/matomatical/reMarkable-customisation),
+which even has its advantages over paper).
 
 Besides, this was made before I had played much so it's probably missing some
 important features.
