@@ -1,5 +1,5 @@
-ASCII Dungons and Dragons Character Sheet
-=========================================
+ASCII Dungeons and Dragons Character Sheet
+==========================================
 
 The first time I played D&D and was faced with the task of tracking character
 information on a character sheet, all I could think was, 'this needs to
